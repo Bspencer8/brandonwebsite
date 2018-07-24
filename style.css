@@ -1,0 +1,26 @@
+body
+
+
+#navbar {
+    background-color: teal;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#nav {
+    list-style-type: none;
+    padding-left: 0px;
+    
+}
+
+#nav li {
+    display: inline-block;
+    line-height: 3;
+    transition: all ls;
+}
+
+#naw li a:hover {
+    color: #ED5860;
+    background-color: white;
+    transition: all ls;
+}
